@@ -1,0 +1,13 @@
+# maven ignore
+*/target/
+
+# idea ignore
+.idea/
+*.iml
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
