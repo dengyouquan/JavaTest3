@@ -1,5 +1,6 @@
 # maven ignore
-*/target/
+*/Exam1/target/
+docker/java/*.jar
 
 # idea ignore
 .idea/
